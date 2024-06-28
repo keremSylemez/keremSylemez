@@ -21,8 +21,8 @@ Hello! I'm a computer engineer with a passion for developing innovative solution
 ### Contact Me
 Feel free to reach out if you have any questions, suggestions, or collaboration ideas. I'm always open to discussing new opportunities and learning from fellow developers.
 
-- **Email:** [my.email](keremsoylemez@panu.com.tr)
-- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/kerems%C3%B6ylemez1453/)
+- **Email:** [keremsoylemez@panu.com.tr](keremsoylemez@panu.com.tr)
+- **LinkedIn:** [https://www.linkedin.com/in/kerems%C3%B6ylemez1453/](https://www.linkedin.com/in/kerems%C3%B6ylemez1453/)
 
 ### License
 My projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
